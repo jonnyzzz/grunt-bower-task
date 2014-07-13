@@ -1,16 +1,24 @@
 {
   "name": "grunt-bower-task",
-  "description": "Install Bower packages.",
-  "version": "0.3.4",
-  "homepage": "https://github.com/yatskevich/grunt-bower-task",
+  "description": "[FORKED] Install Bower packages.",
+  "version": "0.3.5",
+  "homepage": "https://github.com/jonnyzzz/grunt-bower-task",
   "author": {
-    "name": "Ivan Yatskevich",
-    "email": "ivan@yatskevich.com"
+    "name": "Eugene Petrenko",
+    "email": "eugene.petrenko@gmail.com"
   },
   "contributors": [
     {
+      "name": "Ivan Yatskevich",
+      "email": "ivan@yatskevich.com"
+    },
+    {
       "name": "Maksim Horbachevsky",
       "url": "https://github.com/fantactuka"
+    },
+    {
+      "name": "Eugene Petrenko",
+      "url": "https://github.com/jonnyzzz"
     }
   ],
   "repository": {
