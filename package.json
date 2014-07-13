@@ -23,15 +23,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/yatskevich/grunt-bower-task.git"
+    "url": "git://github.com/jonnyzzz/grunt-bower-task.git"
   },
   "bugs": {
-    "url": "https://github.com/yatskevich/grunt-bower-task/issues"
+    "url": "https://github.com/jonnyzzz/grunt-bower-task/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/yatskevich/grunt-bower-task/blob/master/LICENSE-MIT"
+      "url": "https://github.com/jonnyzzz/grunt-bower-task/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
